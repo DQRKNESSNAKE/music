@@ -1,0 +1,38 @@
+body { 
+    
+    background-color: rgb(238, 68, 68);
+}
+
+div{
+    background-color: rgb(245, 247, 140);
+    BORDER: 5PX SOLID rgba(140, 138, 242, 0.842);
+    padding: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.CAJAS_LISTAS{ 
+    background-color: rgb(172, 169, 166);
+
+}
+.caja_listas{
+    background-color: rgb(3, 3, 3);
+    BORDER: px SOLID rgb(255, 0, 0);
+    color:whitesmoke;
+    padding: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+
+.BOX_GO{ 
+
+    background-color: red;
+    BORDER: px SOLID rgb(0, 0, 0);
+    padding: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20%
+}
